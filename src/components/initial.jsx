@@ -1,9 +1,9 @@
-function Hello(){
+function Resname(){
     return (
         <div>
-            <h1>Revanth</h1>
+        <center><h1 style={{ color: "red" }}>SHAH GHOUSH</h1></center>
         </div>
     )
 }
 
-export default Hello;
+export default Resname;
